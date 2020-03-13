@@ -1,0 +1,2 @@
+include ':app', ':proxy_core', ':proxy_tool'
+rootProject.name='APKStrengthen'
